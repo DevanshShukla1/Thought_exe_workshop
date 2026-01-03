@@ -1,0 +1,7 @@
+streamlit
+serpapi
+google-search-results
+agno
+python-dotenv
+requests
+pydantic
